@@ -27,10 +27,6 @@ Connect your phone and laptop/computer via hotspot on phone and wifi on laptop
 ###### Step 2 :
 Run the `Server.java` file (It will create a server and will accept the request from the client android phone)
 ###### Step 3 :
-- Build and Run `PC_Controller`
-- Change `Constants.SERVER_IP` to your computer's ip address
-- `Constants.SERVER_PORT` is predefine, if you are facing problem due to busy port number make sure you change the `Constants.SERVER_PORT` to a free port number
-- Install the build in Android Device
 - Tap on `CONNECT` button on the Home Screen <br><img src="https://github.com/Harshad09/PC-Remote-Access/blob/master/ScreenShots/WhatsApp%20Image%202021-08-24%20at%201.32.49%20PM.jpeg" width="50px"/>
 - Now you can control the pc and use the bottom navigation to use the features 🙂
 
@@ -57,9 +53,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email - hdabhade7@gmail.com
-LinkedIn - https://www.linkedin.com/in/harshad-dabhade-a2a584175/
+Email - davaleatharv14@gmail.com
 
-Project Link: [https://github.com/Harshad09/PC-Remote-Access](https://github.com/Harshad09/PC-Remote-Access)
 
-#### For query/issues open Github issue
+Project Link: [https://github.com/Harshad09/PC-Remote-Access](https://github.com/atharvdavale65)
+
+
