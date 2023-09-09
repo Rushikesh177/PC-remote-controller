@@ -44,9 +44,9 @@ Home             |  Mouse Control
 <!-- CONTACT -->
 ## Contact
 
-Email - davaleatharv14@gmail.com
+Email - rushiwaghule17@gmail.com
 
 
-Project Link: [https://github.com/Harshad09/PC-Remote-Access](https://github.com/atharvdavale65)
+Project Link: https://github.com/rushikesh177
 
 
