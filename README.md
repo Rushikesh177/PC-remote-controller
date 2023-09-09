@@ -37,12 +37,6 @@ Home             |  Mouse Control
 ![](https://github.com/Harshad09/PC-Remote-Access/blob/master/ScreenShots/Screenshot_2021-08-23-12-59-00-139_com.example.pc_controller.png)  |  ![](https://github.com/Harshad09/PC-Remote-Access/blob/master/ScreenShots/Screenshot_2021-08-23-12-58-39-538_com.example.pc_controller.png)
 
 
-Keyboard             |  Multiple Keys
-:-------------------------:|:-------------------------:
-![](https://github.com/Harshad09/PC-Remote-Access/blob/master/ScreenShots/Screenshot_2021-08-23-12-58-44-861_com.example.pc_controller.png)  |  ![](https://github.com/Harshad09/PC-Remote-Access/blob/master/ScreenShots/Screenshot_2021-08-23-12-59-15-728_com.example.pc_controller.png)
-
-
-
 
 
 
